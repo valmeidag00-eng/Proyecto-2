@@ -42,13 +42,13 @@ Aprender a diseñar casos de prueba estructurados y a usar herramientas de gesti
 
 ## Estructura del proyecto
 
-- Proyecto2.xls
+- Contiene el archivo Proyecto2.xls
 
 ---
 
 ## Cómo usar
 
 1. Clonar el repositorio
-2. Abrir los archivos Proyecto2.xls
+2. Abrir el archivo Proyecto2.xls
 3. Revisar evidencias 
 
